@@ -1,6 +1,7 @@
+
 # Tomodachi-Life-Save-Editor
 
-![Tomodachi Llife SE main update](https://raw.githubusercontent.com/Brionjv/Tomodachi-Life-Save-Editor/master/TLSE.png)
+![Tomodachi Llife SE main update](https://raw.githubusercontent.com/cylin577/Tomodachi-Life-Save-Editor-Web/master/TLSE-web.png)
 
 # How to use : 
 - Extract your save with a homebrew (JK's Save Manager or other)
@@ -13,12 +14,17 @@
 - Edit global things (concerts hall songs, reset Miis apartment, unlock all items...)
 
 # Releases :
-https://github.com/Brionjv/Tomodachi-Life-Save-Editor/releases
+No more releases
 
 # Page :
 https://gbatemp.net/threads/wip-tomodachi-life-save-editor.399006/
 
 # Web port :
-- Open `web/index.html`
+- Open `web/index.html` (Yes, no Python server requried)
 - All processing is local in browser
-- Current web build includes save file settings, island info, and Mii CRC repair
+- I can't access your island data even I wanted to, and I really don't want
+
+# Credits:
+All processing and save file parsing logic is done by [Brionjv](https://github.com/Brionjv/) and I do NOT add any new features besides making the web interface
+
+Oringnal Repo at [here](https://github.com/Brionjv/Tomodachi-Life-Save-Editor)
