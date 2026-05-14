@@ -5,8 +5,12 @@
 
 # How to use : 
 - Extract your save with a homebrew (JK's Save Manager or other)
-- Open savedataArc.txt, edit
+- Open `web/index.html` (Yes, no Python server requried)
+- Load savedataArc.txt, edit
 - Re-import your save with a homebrew (JK's Save Manager or other)
+
+# But I don't want to download anything!
+It's okay, I also host the editor at https://tlsew.cylin577.qzz.io/ Same as here, your data NEVER leaves your device, my server only provide the scripts and webpage to YOUR browser, and your browser never send data back
 
 # Features :
 - Edit your island
@@ -20,7 +24,6 @@ No more releases
 https://gbatemp.net/threads/wip-tomodachi-life-save-editor.399006/
 
 # Web port :
-- Open `web/index.html` (Yes, no Python server requried)
 - All processing is done in browser's Javascript engine or smth like that
 - I can't access your island data even I wanted to, and I really don't want
 
