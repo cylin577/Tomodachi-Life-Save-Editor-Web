@@ -1,5 +1,5 @@
 
-# Tomodachi-Life-Save-Editor
+# Tomodachi-Life-Save-Editor-Web
 
 ![Tomodachi Llife SE main update](https://raw.githubusercontent.com/cylin577/Tomodachi-Life-Save-Editor-Web/master/TLSE-web.png)
 
