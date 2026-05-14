@@ -21,7 +21,7 @@ https://gbatemp.net/threads/wip-tomodachi-life-save-editor.399006/
 
 # Web port :
 - Open `web/index.html` (Yes, no Python server requried)
-- All processing is local in browser
+- All processing is done in browser's Javascript engine or smth like that
 - I can't access your island data even I wanted to, and I really don't want
 
 # Credits:
