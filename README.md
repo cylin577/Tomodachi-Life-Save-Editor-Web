@@ -17,3 +17,8 @@ https://github.com/Brionjv/Tomodachi-Life-Save-Editor/releases
 
 # Page :
 https://gbatemp.net/threads/wip-tomodachi-life-save-editor.399006/
+
+# Web port :
+- Open `web/index.html`
+- All processing is local in browser
+- Current web build includes save file settings, island info, and Mii CRC repair
